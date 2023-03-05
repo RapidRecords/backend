@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vkamz8sx+DxDNB6RwtAnu5IcKsQXqVZnzDNu3Fugo3Fl9bNEJ1mujNs/+Xq608Lex32SG8CcQhc1yG9mxoc3DQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vls\\Documents\\_repos\\RapidRecords-backend\\backend\\RR-Server\\RR-Server\\RR-Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vls\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\vls\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\vls\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\vls\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\vls\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\vls\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
